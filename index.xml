@@ -12,7 +12,17 @@
       <link>https://javierviviens.github.io/location/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://javierviviens.github.io/location/</guid>
-      <description>Javier Viviens Martín mailing adress</description>
+      <description>Mailing address Economics Department
+European University Institute
+Via delle Fontanelle, 18 50014 Fiesole FI, Italia
+Location </description>
+    </item>
+    <item>
+      <title>Mail</title>
+      <link>https://javierviviens.github.io/mail/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://javierviviens.github.io/mail/</guid>
+      <description>Email address Javier.VIVIENS[at]eui.eu</description>
     </item>
   </channel>
 </rss>

@@ -7,5 +7,12 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="https://javierviviens.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Location</title>
+      <link>https://javierviviens.github.io/location/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://javierviviens.github.io/location/</guid>
+      <description>Javier Viviens Martín mailing adress</description>
+    </item>
   </channel>
 </rss>
